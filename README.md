@@ -7,5 +7,5 @@ Project Live Link-
 3. react-simple-login-for-learn-context: https://react-simple-login-for-learn-context.netlify.app/
 4. Password-Generator: https://password-generator-reactjs1010.netlify.app/
 5. Profile-Updating:
-6. Todo-List:
+6. Todo-List: https://66d050f584e3b9e7ff66b71b--zesty-lolly-8c0ca1.netlify.app/
 
